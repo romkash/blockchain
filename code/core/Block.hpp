@@ -7,7 +7,6 @@
 class Block {
 private:
     uint64_t version = 0;
-    int blockHeight = 0;
     int difficultyIndex = 0;
     std::string prevBlockHash;
     std::string merkleRootHash;
@@ -18,6 +17,7 @@ private:
 
 public:
     Block() = default;
+    Block()
 };
 
 #endif // BLOCK_HPP

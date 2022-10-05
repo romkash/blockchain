@@ -40,6 +40,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="code/core/Block.hpp" />
+		<Unit filename="code/core/Utils.cpp" />
+		<Unit filename="code/core/Utils.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
