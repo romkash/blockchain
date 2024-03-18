@@ -1,7 +1,7 @@
 # blockchain
 
 an attempt to implement a semblance of a blockchain
-1
+
 ## IDE
 
 Code::Blocks 20.04 with MinGW
